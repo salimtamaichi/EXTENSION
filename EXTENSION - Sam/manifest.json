@@ -1,0 +1,17 @@
+{
+    "manifest_version":3,
+    "name":"Salim Script",
+    "short_name":"STA",
+    "description":"JEJE",
+    "version":"1.0",
+    "action":{
+        "default_popup":"inici.html",
+        "default_icon":"img/logo.png"
+    },
+    "permissions": [
+        "activeTab",
+        "tabs",
+        "scripting"
+    ]
+
+}
